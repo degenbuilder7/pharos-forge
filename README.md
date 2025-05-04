@@ -30,6 +30,7 @@ The ** Pharos Smart Contract Builder** addresses these challenges by providing a
 graph TD;
     A[User Interface] -->|Interacts with| B[Smart Contract Builder];
     B -->|Uses| C[Template Library];
+    B -->|Uses| G[AI to generate Contract];
     B -->|Integrates with| D[Testing Environment];
     B -->|Deploys to| E[Pharos Network];
     D -->|Simulates| F[Contract Interactions];
