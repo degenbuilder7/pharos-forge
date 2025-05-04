@@ -1,7 +1,7 @@
 # PharosForge: Visual Drag and Drop Smart Contract Builder tool for Pharos Network
 
 ## Tagline
-**Empowering Developers to Create, Deploy, and Manage Smart Contracts Effortlessly.**
+**Empowering Developers to Create, Deploy, and Manage Smart Contracts on Pharos Effortlessly.**
 
 ## Description
 PharosForge is a powerful, user-friendly application for building, deploying, and managing smart contracts on the Pharos Network. This visual drag-and-drop interface allows developers to create complex smart contract workflows with minimal coding knowledge.
