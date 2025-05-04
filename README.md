@@ -31,11 +31,8 @@ graph TD;
     A[User Interface] -->|Interacts with| B[Smart Contract Builder];
     B -->|Uses| C[Template Library];
     B -->|Integrates with| D[Testing Environment];
-    B -->|Deploys to| E[Blockchain Networks];
+    B -->|Deploys to| E[Pharos Network];
     D -->|Simulates| F[Contract Interactions];
-    E -->|Supports| G[Ethereum];
-    E -->|Supports| H[Binance Smart Chain];
-    E -->|Supports| I[Other Blockchains];
 ```
 
 ## Installation
